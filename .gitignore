@@ -13,6 +13,9 @@ __pycache__/
 *.xlsx
 *.xls
 
+# Pictures
+*.png
+
 # Distribution / packaging
 .Python
 build/
