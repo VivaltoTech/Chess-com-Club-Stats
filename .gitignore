@@ -9,6 +9,10 @@ __pycache__/
 # VS Code
 .vscode
 
+# Excel
+*.xlsx
+*.xls
+
 # Distribution / packaging
 .Python
 build/
